@@ -3,3 +3,5 @@ THis is Yasir, clone new-feature repository and know adding some information.
 This is new branch
 
 This is pulled file
+
+Delete branches : new-files , old-file
